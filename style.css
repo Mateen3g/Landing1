@@ -67,7 +67,8 @@ header{
 .plcholder1{
   width: 500px;
   height: 200px;
-  margin-left: 1000px;
+  margin-left: 600px;
+  margin-right: 150px;
   display: flex-box;
 }
 .plcholder-txt{
